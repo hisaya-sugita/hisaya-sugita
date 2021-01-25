@@ -13,6 +13,25 @@ Software Developer from Japan.
 
 # 💻 Tech Stack
 
-<!-- ![](https://img.shields.io/badge/dynamic/yaml?style=flat&logo=<LOGO>&label=<LABEL>&color=<COLOR>) -->
+## OS
+
+![](https://img.shields.io/badge/-Linux-333.svg?style=flat&logo=linux)
+
+## Language
 
 ![](https://img.shields.io/badge/-Swift-333.svg?style=flat&logo=swift)
+![](https://img.shields.io/badge/-Ruby-333.svg?style=flat&logo=ruby)
+
+## Framework, Library
+
+![](https://img.shields.io/badge/-Redux-333.svg?style=flat&logo=redux)
+![](https://img.shields.io/badge/-Ruby+on+Rails-333.svg?style=flat&logo=rubyonrails)
+
+## Middleware
+
+![](https://img.shields.io/badge/-MySQL-333.svg?style=flat&logo=mysql)
+![](https://img.shields.io/badge/-Redis-333.svg?style=flat&logo=redis)
+
+## etc
+
+![](https://img.shields.io/badge/-Docker-333.svg?style=flat&logo=docker)

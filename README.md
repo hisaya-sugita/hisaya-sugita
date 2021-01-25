@@ -44,13 +44,13 @@ Software Developer from Japan.
 <!-- Framework, Library -->
 
 ![](https://img.shields.io/badge/-Redux-333.svg?style=flat&logo=redux)
-![](https://img.shields.io/badge/-MVVM-333.svg?style=flat)
 ![](https://img.shields.io/badge/-Ruby%20on%20Rails-333.svg?style=flat&logo=ruby-on-rails)
+![](https://img.shields.io/badge/-RxSwift-333.svg?style=flat&logo=reactivex)
+![](https://img.shields.io/badge/-Flutter-333.svg?style=flat&logo=flutter)
+![](https://img.shields.io/badge/-MVVM-333.svg?style=flat)
 ![](https://img.shields.io/badge/-UIKit-333.svg?style=flat)
 ![](https://img.shields.io/badge/-SwiftUI-333.svg?style=flat)
 ![](https://img.shields.io/badge/-Combine-333.svg?style=flat)
-![](https://img.shields.io/badge/-RxSwift-333.svg?style=flat&logo=reactivex)
-![](https://img.shields.io/badge/-Flutter-333.svg?style=flat&logo=flutter)
 
 <!-- Middleware -->
 
@@ -64,12 +64,12 @@ Software Developer from Japan.
 ![](https://img.shields.io/badge/-GitHubActions-333.svg?style=flat&logo=github-actions)
 ![](https://img.shields.io/badge/-CircleCI-333.svg?style=flat&logo=circleci)
 ![](https://img.shields.io/badge/-Bitrise-333.svg?style=flat&logo=bitrise)
-![](https://img.shields.io/badge/-Swagger-333.svg?style=flat)
-![](https://img.shields.io/badge/-OpenAPIGenerator-333.svg?style=flat)
 ![](https://img.shields.io/badge/-Xcode-333.svg?style=flat&logo=xcode)
-![](https://img.shields.io/badge/-XcodeGen-333.svg?style=flat)
 ![](https://img.shields.io/badge/-Stripe-333.svg?style=flat&logo=stripe)
 ![](https://img.shields.io/badge/-VSCode-333.svg?style=flat&logo=visual-studio-code)
+![](https://img.shields.io/badge/-Swagger-333.svg?style=flat)
+![](https://img.shields.io/badge/-OpenAPIGenerator-333.svg?style=flat)
+![](https://img.shields.io/badge/-XcodeGen-333.svg?style=flat)
 
 <!-- Design Tool -->
 

@@ -21,7 +21,7 @@ Software Developer from Japan.
 
 ## 🛠 Tech Stack
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="500">
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="400">
 
 <!-- OS, Infrastructure -->
 

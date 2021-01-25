@@ -73,8 +73,8 @@ Software Developer from Japan.
 
 <!-- Design Tool -->
 
-![](https://img.shields.io/badge/-Sketch-333.svg?style=flat&logo=sketch)
-![](https://img.shields.io/badge/-Figma-333.svg?style=flat&logo=figma)
+![](https://img.shields.io/badge/-Sketch-333.svg?style=for-the-badge&logo=sketch)
+![](https://img.shields.io/badge/-Figma-333.svg?style=for-the-badge&logo=figma)
 
 ## 🤝🏻  Connect with Me
 

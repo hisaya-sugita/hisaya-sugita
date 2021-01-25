@@ -23,9 +23,12 @@ Software Developer from Japan.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<!-- OS -->
+<!-- OS, Infrastructure -->
 
 ![](https://img.shields.io/badge/-Linux-333.svg?style=flat&logo=linux)
+![](https://img.shields.io/badge/-iOS-333.svg?style=flat&logo=ios)
+![](https://img.shields.io/badge/-AWS-333.svg?style=flat&logo=amazon-aws)
+![](https://img.shields.io/badge/-GCP-333.svg?style=flat&logo=google-cloud)
 
 <!-- Language -->
 
@@ -35,16 +38,26 @@ Software Developer from Japan.
 <!-- Framework, Library -->
 
 ![](https://img.shields.io/badge/-Redux-333.svg?style=flat&logo=redux)
+![](https://img.shields.io/badge/-MVVM-333.svg?style=flat)
 ![](https://img.shields.io/badge/-Ruby%20on%20Rails-333.svg?style=flat&logo=ruby-on-rails)
+![](https://img.shields.io/badge/-UIKit-333.svg?style=flat)
+![](https://img.shields.io/badge/-SwiftUI-333.svg?style=flat)
 
 <!-- Middleware -->
 
 ![](https://img.shields.io/badge/-MySQL-333.svg?style=flat&logo=mysql)
 ![](https://img.shields.io/badge/-Redis-333.svg?style=flat&logo=redis)
 
-<!-- etc -->
+<!-- tools -->
 
 ![](https://img.shields.io/badge/-Docker-333.svg?style=flat&logo=docker)
+![](https://img.shields.io/badge/-GitHub-333.svg?style=flat&logo=github)
+![](https://img.shields.io/badge/-GitHubActions-333.svg?style=flat&logo=github-actions)
+![](https://img.shields.io/badge/-CircleCI-333.svg?style=flat&logo=circleci)
+![](https://img.shields.io/badge/-Bitrise-333.svg?style=flat&logo=bitrise)
+![](https://img.shields.io/badge/-Swagger-333.svg?style=flat)
+![](https://img.shields.io/badge/-OpenAPIGenerator-333.svg?style=flat)
+
 
 ## 🤝🏻  Connect with Me
 

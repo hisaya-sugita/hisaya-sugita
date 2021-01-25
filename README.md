@@ -1,3 +1,11 @@
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=kino-puehddby&color=blue&style=flat&label=Profile+Views)
+
+</div>
+
+---
+
 # 👋 Hi there! I'm Kino.
 
 ## About Me
@@ -42,11 +50,3 @@ Software Developer from Japan.
 
 <a href="https://twitter.com/kino_puehddby" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://twitter.com/kino_puehddby" target="_blank"><img src="https://img.shields.io/badge/Qiita-55C500.svg?&style=flat&logo=qiita&logoColor=white" alt="Qiita"></a>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=kino-puehddby&color=blue&style=flat&label=Profile+Views)
-
-</div>

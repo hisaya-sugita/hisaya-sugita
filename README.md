@@ -6,7 +6,7 @@
 
 ---
 
-# 👋 Hi there! I'm Kino.
+# 👋 Hi there! I'm Kino ( Hisaya Sugita )
 
 ## About Me
 
@@ -78,4 +78,4 @@ Software Developer from Japan.
 ## 🤝🏻  Connect with Me
 
 <a href="https://twitter.com/kino_puehddby" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://twitter.com/kino_puehddby" target="_blank"><img src="https://img.shields.io/badge/Qiita-55C500.svg?&style=flat&logo=qiita&logoColor=white" alt="Qiita"></a>
+<a href="https://qiita.com/kino_puehddby" target="_blank"><img src="https://img.shields.io/badge/Qiita-55C500.svg?&style=flat&logo=qiita&logoColor=white" alt="Qiita"></a>

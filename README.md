@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-![](https://komarev.com/ghpvc/?username=kino-puehddby&color=blue&style=flat&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=kino-puehddby&color=blue&style=flat&label=hits)
 
 # 👋 Hi there! I'm Kino.
 

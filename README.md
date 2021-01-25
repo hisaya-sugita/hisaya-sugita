@@ -1,4 +1,4 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=kino-puehddby&color=blue&style=flat&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=kino-puehddby&color=blue&style=flat&label=Profile+Views)
 
 # 👋 Hi there! I'm Kino.
 

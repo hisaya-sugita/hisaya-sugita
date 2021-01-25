@@ -1,3 +1,5 @@
+<div style="text-align: center;">
+
 ![](https://komarev.com/ghpvc/?username=kino-puehddby&color=blue&style=flat&label=Profile+Views)
 
 # 👋 Hi there! I'm Kino.
@@ -35,3 +37,5 @@ Software Developer from Japan.
 ## etc
 
 ![](https://img.shields.io/badge/-Docker-333.svg?style=flat&logo=docker)
+
+</div>

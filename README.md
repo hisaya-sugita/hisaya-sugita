@@ -23,32 +23,40 @@ Software Developer from Japan.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<!-- OS, Infrastructure -->
+### OS, Infrastructure
 
 ![](https://img.shields.io/badge/-Linux-333.svg?style=flat&logo=linux)
 ![](https://img.shields.io/badge/-iOS-333.svg?style=flat&logo=ios)
 ![](https://img.shields.io/badge/-AWS-333.svg?style=flat&logo=amazon-aws)
 ![](https://img.shields.io/badge/-GCP-333.svg?style=flat&logo=google-cloud)
+![](https://img.shields.io/badge/-Firebase-333.svg?style=flat&logo=firebase)
 
-<!-- Language -->
+### Language
 
 ![](https://img.shields.io/badge/-Swift-333.svg?style=flat&logo=swift)
 ![](https://img.shields.io/badge/-Ruby-333.svg?style=flat&logo=ruby)
+![](https://img.shields.io/badge/-Dart-333.svg?style=flat&logo=dart)
+![](https://img.shields.io/badge/-Go-333.svg?style=flat&logo=go)
+![](https://img.shields.io/badge/-TypeScript-333.svg?style=flat&logo=typescript)
+![](https://img.shields.io/badge/-JavaScript-333.svg?style=flat&logo=javascript)
 
-<!-- Framework, Library -->
+### Framework, Library
 
 ![](https://img.shields.io/badge/-Redux-333.svg?style=flat&logo=redux)
 ![](https://img.shields.io/badge/-MVVM-333.svg?style=flat)
 ![](https://img.shields.io/badge/-Ruby%20on%20Rails-333.svg?style=flat&logo=ruby-on-rails)
 ![](https://img.shields.io/badge/-UIKit-333.svg?style=flat)
 ![](https://img.shields.io/badge/-SwiftUI-333.svg?style=flat)
+![](https://img.shields.io/badge/-Combine-333.svg?style=flat)
+![](https://img.shields.io/badge/-RxSwift-333.svg?style=flat&logo=reactivex)
+![](https://img.shields.io/badge/-Flutter-333.svg?style=flat&logo=flutter)
 
-<!-- Middleware -->
+### Middleware
 
 ![](https://img.shields.io/badge/-MySQL-333.svg?style=flat&logo=mysql)
 ![](https://img.shields.io/badge/-Redis-333.svg?style=flat&logo=redis)
 
-<!-- tools -->
+### Dev Tool
 
 ![](https://img.shields.io/badge/-Docker-333.svg?style=flat&logo=docker)
 ![](https://img.shields.io/badge/-GitHub-333.svg?style=flat&logo=github)
@@ -57,7 +65,15 @@ Software Developer from Japan.
 ![](https://img.shields.io/badge/-Bitrise-333.svg?style=flat&logo=bitrise)
 ![](https://img.shields.io/badge/-Swagger-333.svg?style=flat)
 ![](https://img.shields.io/badge/-OpenAPIGenerator-333.svg?style=flat)
+![](https://img.shields.io/badge/-Xcode-333.svg?style=flat&logo=xcode)
+![](https://img.shields.io/badge/-XcodeGen-333.svg?style=flat)
+![](https://img.shields.io/badge/-Stripe-333.svg?style=flat&logo=stripe)
+![](https://img.shields.io/badge/-VSCode-333.svg?style=flat&logo=visual-studio-code)
 
+## Design Tool
+
+![](https://img.shields.io/badge/-Sketch-333.svg?style=flat&logo=sketch)
+![](https://img.shields.io/badge/-Figma-333.svg?style=flat&logo=figma)
 
 ## 🤝🏻  Connect with Me
 

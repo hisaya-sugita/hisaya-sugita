@@ -23,7 +23,7 @@ Software Developer from Japan.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### OS, Infrastructure
+<!-- OS, Infrastructure -->
 
 ![](https://img.shields.io/badge/-Linux-333.svg?style=flat&logo=linux)
 ![](https://img.shields.io/badge/-iOS-333.svg?style=flat&logo=ios)
@@ -31,7 +31,7 @@ Software Developer from Japan.
 ![](https://img.shields.io/badge/-GCP-333.svg?style=flat&logo=google-cloud)
 ![](https://img.shields.io/badge/-Firebase-333.svg?style=flat&logo=firebase)
 
-### Language
+<!-- Language -->
 
 ![](https://img.shields.io/badge/-Swift-333.svg?style=flat&logo=swift)
 ![](https://img.shields.io/badge/-Ruby-333.svg?style=flat&logo=ruby)
@@ -40,7 +40,7 @@ Software Developer from Japan.
 ![](https://img.shields.io/badge/-TypeScript-333.svg?style=flat&logo=typescript)
 ![](https://img.shields.io/badge/-JavaScript-333.svg?style=flat&logo=javascript)
 
-### Framework, Library
+<!-- Framework, Library -->
 
 ![](https://img.shields.io/badge/-Redux-333.svg?style=flat&logo=redux)
 ![](https://img.shields.io/badge/-MVVM-333.svg?style=flat)
@@ -51,12 +51,12 @@ Software Developer from Japan.
 ![](https://img.shields.io/badge/-RxSwift-333.svg?style=flat&logo=reactivex)
 ![](https://img.shields.io/badge/-Flutter-333.svg?style=flat&logo=flutter)
 
-### Middleware
+<!-- Middleware -->
 
 ![](https://img.shields.io/badge/-MySQL-333.svg?style=flat&logo=mysql)
 ![](https://img.shields.io/badge/-Redis-333.svg?style=flat&logo=redis)
 
-### Dev Tool
+<!-- Dev Tool -->
 
 ![](https://img.shields.io/badge/-Docker-333.svg?style=flat&logo=docker)
 ![](https://img.shields.io/badge/-GitHub-333.svg?style=flat&logo=github)
@@ -70,7 +70,7 @@ Software Developer from Japan.
 ![](https://img.shields.io/badge/-Stripe-333.svg?style=flat&logo=stripe)
 ![](https://img.shields.io/badge/-VSCode-333.svg?style=flat&logo=visual-studio-code)
 
-## Design Tool
+<!-- Design Tool -->
 
 ![](https://img.shields.io/badge/-Sketch-333.svg?style=flat&logo=sketch)
 ![](https://img.shields.io/badge/-Figma-333.svg?style=flat&logo=figma)

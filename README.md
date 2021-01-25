@@ -73,10 +73,10 @@ Software Developer from Japan.
 
 <!-- Design Tool -->
 
-![](https://img.shields.io/badge/-Sketch-333.svg?style=for-the-badge&logo=sketch)
-![](https://img.shields.io/badge/-Figma-333.svg?style=for-the-badge&logo=figma)
+![](https://img.shields.io/badge/-Sketch-333.svg?style=flat&logo=sketch)
+![](https://img.shields.io/badge/-Figma-333.svg?style=flat&logo=figma)
 
 ## 🤝🏻  Connect with Me
 
-<a href="https://twitter.com/kino_puehddby" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://qiita.com/kino_puehddby" target="_blank"><img src="https://img.shields.io/badge/Qiita-55C500.svg?&style=flat&logo=qiita&logoColor=white" alt="Qiita"></a>
+<a href="https://twitter.com/kino_puehddby" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://qiita.com/kino_puehddby" target="_blank"><img src="https://img.shields.io/badge/Qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita"></a>

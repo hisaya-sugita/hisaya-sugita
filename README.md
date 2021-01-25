@@ -15,5 +15,4 @@ Software Developer from Japan.
 
 <!-- ![](https://img.shields.io/badge/dynamic/yaml?style=flat&logo=<LOGO>&label=<LABEL>&color=<COLOR>) -->
 
-![](https://img.shields.io/badge/dynamic/yaml?style=flat&logo=swift&label=Swift&color=#FA7343)
-![](https://img.shields.io/badge/dynamic/yaml?style=flat&logo=swift&label=Swift&color=#FFFFFF)
+![](https://img.shields.io/badge/Swift--?style=flat&logo=swift&label=Swift)

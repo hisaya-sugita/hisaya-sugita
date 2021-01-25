@@ -4,11 +4,18 @@
 
 Software Developer from Japan.
 
-# GitHub Analytics
+# 📈 GitHub Analytics
 
 [![](https://raw.githubusercontent.com/kino-puehddby/kino-puehddby/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kino-puehddby/kino-puehddby/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kino-puehddby/kino-puehddby/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kino-puehddby/kino-puehddby/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kino-puehddby&hide=stars&show_icons=true&theme=dracula&title_color=#ffffff)](https://github.com/anuraghazra/github-readme-stats)
+# 💻 Tech Stack
+
+![](https://img.shields.io/badge/type-example-green)
+
+<!-- https://img.shields.io/badge/dynamic/yaml?style=flat&logo=<LOGO>&label=<LABEL>&color=<COLOR> -->
+
+https://img.shields.io/badge/dynamic/yaml?style=flat&logo=swift&label=Swift
+

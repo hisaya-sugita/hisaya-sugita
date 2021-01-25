@@ -13,9 +13,7 @@ Software Developer from Japan.
 
 # 💻 Tech Stack
 
-![](https://img.shields.io/badge/type-example-green)
+![](https://img.shields.io/badge/dynamic/yaml?style=flat&logo=<LOGO>&label=<LABEL>&color=<COLOR>)
 
-<!-- https://img.shields.io/badge/dynamic/yaml?style=flat&logo=<LOGO>&label=<LABEL>&color=<COLOR> -->
-
-https://img.shields.io/badge/dynamic/yaml?style=flat&logo=swift&label=Swift
+![](https://img.shields.io/badge/dynamic/yaml?style=flat&logo=swift&label=Swift)
 

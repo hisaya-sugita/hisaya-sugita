@@ -1,0 +1,23 @@
+name: GitHub-Profile-Blog-Posts
+
+on:
+  schedule: # execute every 24 hours
+    - cron: '* */24 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    name: update
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
+        with:
+          url: 'https://qiita.com/kino_puehddby/feed'
+          file: 'README.md'
+      - run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git add .
+          git commit -m "docs: update feed" || true
+          git push

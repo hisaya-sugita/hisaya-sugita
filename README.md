@@ -6,7 +6,7 @@
 
 ---
 
-# 👋 Hi there! I'm Kino.
+# 👋 Hi there! I'm Hisaya Sugita.
 
 ## About Me
 

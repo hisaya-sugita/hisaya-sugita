@@ -36,8 +36,9 @@ Software Developer from Japan.
 
 ![](https://img.shields.io/badge/-Swift-333.svg?style=flat&logo=swift)
 ![](https://img.shields.io/badge/-Ruby-333.svg?style=flat&logo=ruby)
-![](https://img.shields.io/badge/-Dart-333.svg?style=flat&logo=dart)
-![](https://img.shields.io/badge/-Go-333.svg?style=flat&logo=go)
+<!-- ![](https://img.shields.io/badge/-Dart-333.svg?style=flat&logo=dart) -->
+<!-- ![](https://img.shields.io/badge/-Go-333.svg?style=flat&logo=go) -->
+![](https://img.shields.io/badge/-Node.js-333.svg?style=flat&logo=nodejs)
 ![](https://img.shields.io/badge/-TypeScript-333.svg?style=flat&logo=typescript)
 ![](https://img.shields.io/badge/-JavaScript-333.svg?style=flat&logo=javascript)
 
@@ -55,6 +56,7 @@ Software Developer from Japan.
 <!-- Middleware -->
 
 ![](https://img.shields.io/badge/-MySQL-333.svg?style=flat&logo=mysql)
+![](https://img.shields.io/badge/-PostgreSQL-333.svg?style=flat&logo=postgresql)
 ![](https://img.shields.io/badge/-Redis-333.svg?style=flat&logo=redis)
 
 <!-- Dev Tool -->
@@ -67,7 +69,7 @@ Software Developer from Japan.
 ![](https://img.shields.io/badge/-Xcode-333.svg?style=flat&logo=xcode)
 ![](https://img.shields.io/badge/-Stripe-333.svg?style=flat&logo=stripe)
 ![](https://img.shields.io/badge/-VSCode-333.svg?style=flat&logo=visual-studio-code)
-![](https://img.shields.io/badge/-Swagger-333.svg?style=flat)
+![](https://img.shields.io/badge/-Swagger-333.svg?style=flat&logo=swagger)
 ![](https://img.shields.io/badge/-OpenAPIGenerator-333.svg?style=flat)
 ![](https://img.shields.io/badge/-XcodeGen-333.svg?style=flat)
 
@@ -75,15 +77,6 @@ Software Developer from Japan.
 
 ![](https://img.shields.io/badge/-Sketch-333.svg?style=flat&logo=sketch)
 ![](https://img.shields.io/badge/-Figma-333.svg?style=flat&logo=figma)
-
-## 📝 Recent Blog Posts
-
-<!-- feed start -->
-- Jan 24 - [GitHubとSlackを連携させて通知を受けとるためのコマンド集](https://qiita.com/kino_puehddby/items/fdfb2c5fe91ca6815d9c)
-- Jan 20 - [【Swift5】iOSの設定アプリに遷移するための処理と注意点](https://qiita.com/kino_puehddby/items/5c8084894cc74e04ddce)
-- Nov 09 - [Redux+Rxで構築するiOSアプリアーキテクチャ](https://qiita.com/kino_puehddby/items/00df08408e4870afbcd7)
-- Apr 28 - [Elastic BeanstalkでT3インスタンスのUnlimitedモードを無効にして起動するようにする](https://qiita.com/kino_puehddby/items/41d4c6e2438ab9c351af)
-<!-- feed end -->
 
 ## 🤝🏻  Connect with Me
 

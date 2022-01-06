@@ -85,6 +85,8 @@ Software Developer from Japan.
 
 <a href="https://twitter.com/kino_puehddby" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 
+<a href="https://zenn.dev/kino_puehddby" target="_blank"><img src="https://img.shields.io/badge/Zenn-FFFFFF.svg?&style=for-the-badge&logo=zenn&logoColor=3EA8FF" alt="Zenn"></a>
+
 <a href="https://qiita.com/kino_puehddby" target="_blank"><img src="https://img.shields.io/badge/Qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita"></a>
 
-<a href="https://www.wantedly.com/id/kino_puehddby" target="_blank"><img src="https://img.shields.io/badge/Wantedly-03ADD1.svg?&style=for-the-badge" alt="Qiita"></a>
+<a href="https://www.wantedly.com/id/kino_puehddby" target="_blank"><img src="https://img.shields.io/badge/Wantedly-03ADD1.svg?&style=for-the-badge" alt="Wantedly"></a>

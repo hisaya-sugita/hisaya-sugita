@@ -87,10 +87,3 @@ Software Developer from Japan.
 <a href="https://qiita.com/hisaya_sugita" target="_blank"><img src="https://img.shields.io/badge/Qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita"></a>
 
 <a href="https://www.wantedly.com/id/hisaya_sugita" target="_blank"><img src="https://img.shields.io/badge/Wantedly-03ADD1.svg?&style=for-the-badge" alt="Wantedly"></a>
-
-<!-- feed start -->
-- Jan 24 - [GitHubとSlackを連携させて通知を受けとるためのコマンド集](https://qiita.com/kino_puehddby/items/fdfb2c5fe91ca6815d9c)
-- Jan 20 - [【Swift5】iOSの設定アプリに遷移するための処理と注意点](https://qiita.com/kino_puehddby/items/5c8084894cc74e04ddce)
-- Nov 09 - [Redux+Rxで構築するiOSアプリアーキテクチャ](https://qiita.com/kino_puehddby/items/00df08408e4870afbcd7)
-- Apr 28 - [Elastic BeanstalkでT3インスタンスのUnlimitedモードを無効にして起動するようにする](https://qiita.com/kino_puehddby/items/41d4c6e2438ab9c351af)
-<!-- feed end -->

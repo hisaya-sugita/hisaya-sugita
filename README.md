@@ -45,6 +45,7 @@ Software Developer from Japan.
 <!-- Framework, Library -->
 
 ![](https://img.shields.io/badge/-Redux-333.svg?style=flat&logo=redux)
+
 ![](https://img.shields.io/badge/-Ruby%20on%20Rails-333.svg?style=flat&logo=ruby-on-rails)
 ![](https://img.shields.io/badge/-RxSwift-333.svg?style=flat&logo=reactivex)
 ![](https://img.shields.io/badge/-Flutter-333.svg?style=flat&logo=flutter)

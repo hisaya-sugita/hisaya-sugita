@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/hisaya-sugita/hisaya-sugita/main/profile-summary-card-output/maroongold/4-productive-time.svg)
-```
-
-    

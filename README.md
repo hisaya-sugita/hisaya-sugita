@@ -78,11 +78,3 @@ Software Developer from Japan.
 
 ![](https://img.shields.io/badge/-Sketch-333.svg?style=flat&logo=sketch)
 ![](https://img.shields.io/badge/-Figma-333.svg?style=flat&logo=figma)
-
-## 🤝🏻  Connect with Me
-
-<a href="https://zenn.dev/kino_puehddby" target="_blank"><img src="https://img.shields.io/badge/Zenn-FFFFFF.svg?&style=for-the-badge&logo=zenn&logoColor=3EA8FF" alt="Zenn"></a>
-
-<a href="https://qiita.com/hisaya_sugita" target="_blank"><img src="https://img.shields.io/badge/Qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita"></a>
-
-<a href="https://www.wantedly.com/id/hisaya_sugita" target="_blank"><img src="https://img.shields.io/badge/Wantedly-03ADD1.svg?&style=for-the-badge" alt="Wantedly"></a>

@@ -8,7 +8,7 @@
 
 # Hisaya Sugita
 
-## About Me
+## 👨‍💻About Me
 
 Software Developer from Japan.
 

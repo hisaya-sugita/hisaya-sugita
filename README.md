@@ -24,6 +24,7 @@ Software Developer from Japan.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="400">
 
+<br/>
 <!-- OS, Infrastructure -->
 
 ![](https://img.shields.io/badge/-Linux-333.svg?style=flat&logo=linux)
